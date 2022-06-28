@@ -237,3 +237,6 @@ while(1):
 ![Untitled](WhitehatPlay11%20-%20Web%20b069cda417f4481997735214faf64af9/Untitled%2023.png)
 
 Final flag is: WhiteHat{I_w4s_made_4_sunny_d4ys}
+### Reference:
+
+- [https://github.com/PDKT-Team/ctf/blob/master/fbctf2019/hr-admin-module/README.md](https://github.com/PDKT-Team/ctf/blob/master/fbctf2019/hr-admin-module/README.md).
